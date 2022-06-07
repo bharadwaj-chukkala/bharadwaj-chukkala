@@ -9,7 +9,7 @@
 
 - 🤝 I’m interested in applications of **ML and DL in Robotics**
 
-- 📝 I regularly write articles on **Psychology, Existence and Genetics**
+- 📝 I regularly write articles on **Robotics, AI, Psychology, Existence and Genetics**
 
 - 📫 Reach me at: **bchukkal@terpmail.umd.edu**
 
