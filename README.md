@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharadwaj-chukkala&label=Profile%20views&color=0e75b6&style=flat" alt="bharadwaj-chukkala" /> </p>
 
-- 🔭 I’m currently working on **Path Planning Applications of Robotics**
+- 🔭 I’m currently working on **Software Development of Robots and Path Planning for Autonomous Vehicles**
 
-- 🌱 I’m currently learning **C++, Python and ROS**
+- 🌱 I’m proficient in **C++, Python and ROS**
 
 - 🤝 I’m interested in applications of **ML and DL in Robotics**
 
