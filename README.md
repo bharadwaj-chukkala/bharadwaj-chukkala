@@ -1,11 +1,16 @@
-<h1 align="center">Hi 👋, I'm Bharadwaj Chukkala</h1>
-<h3 align="center">I keep drowning in the ocean of knowledge just to find new things in its depth</h3>
+<h2  align="center">
+<a  href="https://git.io/typing-svg">
+<img  src="https://readme-typing-svg.herokuapp.com?size=27&center=true&vCenter=true&lines=Hello+There+!+👋;Welcome+to+my+profile">
+</a>
+</h2>
+<h1 align="center">I'm Bharadwaj Chukkala</h1>
+<h4 align="center"> A Curious Robotics Software Engineer who keeps drowning in the ocean of knowledge just to find new things in its depth</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharadwaj-chukkala&label=Profile%20views&color=0e75b6&style=flat" alt="bharadwaj-chukkala" /> </p>
 
-- 🔭 I’m currently working on **Software Development of Robots and Path Planning for Autonomous Vehicles**
+- 🔭 My current works: **Software Development for Robots, Path Planning and Perception for Autonomous Vehicles**
 
-- 🌱 I’m highly proficient in **C++, Python and ROS**
+- 🌱 I’m highly proficient in **C++, Python, ROS, OOPs, AIP, Machine Learning**
 
 - 🤝 I’m interested in **Control Systems, Planning & Perception for Autonomous Robots, Machine Learning, Robotic Software Development**
 
