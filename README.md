@@ -4,17 +4,26 @@
 </a>
 </h2>
 <h1 align="center">I'm Bharadwaj Chukkala</h1>
-<h4 align="center"> A Curious Robotics Software Engineer who keeps drowning in the ocean of knowledge just to find new things in its depth</h4>
+<h4 align="center"> A Curious Robotics Software Engineer </h4>
+
+<p align="center">
+<i>I keep drowning in the ocean of knowledge just to find new things in its depth</i> 
+</p>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharadwaj-chukkala&label=Profile%20views&color=0e75b6&style=flat" alt="bharadwaj-chukkala" /> </p>
 
-- 🔭 My current works: **Software Development for Robots, Path Planning and Perception for Autonomous Vehicles**
+```python
+- 🔭 I'm currently working in: Software Development for Robots, Path Planning and Perception for Autonomous Vehicles
 
-- 🌱 I’m highly proficient in **C++, Python, ROS, OOPs, AIP, Machine Learning**
+- 👌 I’m highly proficient in: C++, Python, ROS, OOPs, AIP, Machine Learning
 
-- 🤝 I’m interested in **Control Systems, Planning & Perception for Autonomous Robots, Machine Learning, Robotic Software Development**
+- 🔍 I’m interested in: Control Systems, Path Planning & Perception for Autonomous Robots
+                        Machine Learning, Robotic Software Development
 
-- 📫 Reach me at: **bchukkal@terpmail.umd.edu**
+- 📫 Reach me at bchukkal@terpmail.umd.edu
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
