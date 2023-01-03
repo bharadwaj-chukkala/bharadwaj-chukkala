@@ -1,10 +1,12 @@
-<h2  align="center">
+
+<h1  align="center">
 <a  href="https://git.io/typing-svg">
 <img  src="https://readme-typing-svg.herokuapp.com?size=27&center=true&vCenter=true&lines=Hello+There+!+👋;Welcome+to+my+profile">
 </a>
-</h2>
-<h1 align="center">I'm Bharadwaj Chukkala</h1>
-<h4 align="center"> A Curious Robotics Software Engineer </h4>
+<br>
+  I'm Bharadwaj Chukkala
+</h1>
+<h3 align="center"> A Curious Robotics Software Engineer </h3>
 
 <p align="center">
 <i>I keep drowning in the ocean of knowledge just to find new things in its depth</i> 
@@ -12,9 +14,10 @@
 
 
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharadwaj-chukkala&label=Profile%20views&color=0e75b6&style=flat" alt="bharadwaj-chukkala" /> </p>
 
-```python
+```ruby
 - 🔭 I'm currently working in: Software Development for Robots, Path Planning and Perception for Autonomous Vehicles
 
 - 👌 I’m highly proficient in: C++, Python, ROS, OOPs, AIP, Machine Learning
@@ -22,7 +25,7 @@
 - 🔍 I’m interested in: Control Systems, Path Planning & Perception for Autonomous Robots
                         Machine Learning, Robotic Software Development
 
-- 📫 Reach me at bchukkal@terpmail.umd.edu
+- 📫 Email: bchukkal@terpmail.umd.edu
 ```
 
 <h3 align="left">Connect with me:</h3>
