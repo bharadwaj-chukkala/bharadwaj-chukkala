@@ -1,10 +1,15 @@
 
+
 <h1  align="center">
 <a  href="https://git.io/typing-svg">
 <img  src="https://readme-typing-svg.herokuapp.com?size=27&center=true&vCenter=true&lines=Hello+There+!+👋;Welcome+to+my+profile">
+
 </a>
 <br>
-  I'm Bharadwaj Chukkala
+  I'm Bharadwaj Chukkala <br>
+ 
+<img width="10%" alt="TB3" src="https://github.com/bharadwaj-chukkala/bharadwaj-chukkala/blob/main/profile-assets/funny_robot.gif">
+  
 </h1>
 <h3 align="center"> A Curious Robotics Software Engineer </h3>
 
@@ -16,6 +21,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharadwaj-chukkala&label=Profile%20views&color=0e75b6&style=flat" alt="bharadwaj-chukkala" /> </p>
+
 
 ```ruby
 - 🔭 I'm currently working in: Software Development for Robots, Path Planning and Perception for Autonomous Vehicles
