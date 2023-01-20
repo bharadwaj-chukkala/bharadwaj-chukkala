@@ -8,7 +8,7 @@
 <br>
   I'm Bharadwaj Chukkala <br>
  
-<img width="10%" alt="TB3" src="https://github.com/bharadwaj-chukkala/bharadwaj-chukkala/blob/main/profile-assets/funny_robot.gif">
+<img width="15%" alt="TB3" src="https://github.com/bharadwaj-chukkala/bharadwaj-chukkala/blob/main/profile-assets/funny_robot.gif">
   
 </h1>
 <h3 align="center"> A Curious Robotics Software Engineer </h3>
