@@ -17,11 +17,7 @@
 <i>I keep drowning in the ocean of knowledge just to find new things in its depth</i> 
 </p>
 
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharadwaj-chukkala&label=Profile%20views&color=0e75b6&style=flat" alt="bharadwaj-chukkala" /> </p>
-
 
 ```ruby
 - 🔭 I'm currently working in: Software Development for Robots, Path Planning and Perception for Autonomous Vehicles
@@ -30,9 +26,12 @@
 
 - 🔍 I’m interested in: Control Systems, Path Planning & Perception for Autonomous Robots
                         Machine Learning, Robotic Software Development
-
+                        
 - 📫 Email: bchukkal@terpmail.umd.edu
 ```
+
+📄 Resume: [Click Here](https://drive.google.com/file/d/1BZa8x8Q7AFVfyIhr5AytBBtfzao7W6f0/view?usp=sharing)
+--
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
