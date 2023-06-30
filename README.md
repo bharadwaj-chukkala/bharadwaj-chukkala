@@ -30,7 +30,7 @@
 - 📫 Email: bchukkal@terpmail.umd.edu
 ```
 
-📄 Resume: [Click Here](https://drive.google.com/file/d/1BZa8x8Q7AFVfyIhr5AytBBtfzao7W6f0/view?usp=sharing)
+📄 Resume: [Click Here](https://drive.google.com/file/d/1cv5mbK83IwF4juTIBl5HiKuRXm-ow5tS/view?usp=sharing)
 --
 
 <h3 align="left">Connect with me:</h3>
